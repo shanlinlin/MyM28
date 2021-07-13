@@ -1,0 +1,4 @@
+*.group
+*.h
+*.xlsx
+__pycache__
